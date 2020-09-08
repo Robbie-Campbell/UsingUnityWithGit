@@ -6,3 +6,8 @@
 
 ##### Just trying to get used to setting up a project, having the correct gitignore and trying some of the basic functions
 ## TL;DR Nothing special here just practicing :rocket:
+
+##### All courtesy of tutorials from Brackeys
+
+> https://www.youtube.com/watch?v=whzomFgjT50
+> https://www.youtube.com/watch?v=qpXxcvS-g3g
