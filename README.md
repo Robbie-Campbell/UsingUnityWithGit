@@ -8,6 +8,6 @@
 ## TL;DR Nothing special here just practicing :rocket:
 
 ##### All courtesy of tutorials from Brackeys
-> https://www.youtube.com/watch?v=whzomFgjT50
+> https://www.youtube.com/watch?v=whzomFgjT50 -- TOP DOWN MOVEMENT in Unity!
 
-> https://www.youtube.com/watch?v=qpXxcvS-g3g
+> https://www.youtube.com/watch?v=qpXxcvS-g3g -- How to use GitHub with Unity
